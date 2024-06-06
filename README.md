@@ -2,10 +2,9 @@
 
 
 # Usage:
-- git clone `https://github.com/DrMasaDr/WEBSITE-METHOD`
-- cd WEBSITE-METHOD
-- bash setup.sh
-- bash DXD.sh
+- git clone `https://github.com/DrMasaDr/XSS-SCAN`
+- cd XSS-SCAN
+- python3 DXD.py
 
 
 ## CONTACT ME ON

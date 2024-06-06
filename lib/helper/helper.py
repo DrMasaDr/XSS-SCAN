@@ -26,16 +26,24 @@ def session(proxies,headers,cookie):
 	r.cookies.update(json.loads(cookie))
 	return r
 
-logo=G+"""__  ______ ____   ____
-\ \/ / ___/ ___| / ___|___  _ __
- \  /\___ \___ \| |   / _ \| '_ \ %s
- /  \ ___) |__) | |__| (_) | | | | %s
-/_/\_\____/____/ \____\___/|_| |_|
-<<<<<<< HEAD
-"""%(R+"{v0.5 Final}"+G,underline+C+"https://github.com/menkrep1337/XSSCon"+N+G)
+logo=G+"""
+             .-***-.     
+            /       \    
+            \       /    
+     .-***-.-`.-.-.<  _  
+    /      _,-\ O_O-_/ )  
+    \     / ,  `   . `|       TELEGRAM CH 1: @program_masa & TELEGRAM CH 2 : @Minds_Tech  & TELEGRAM CONTACT 1 : @Dr_Masa_Dr &  CONTACT 2 : @DXDMASA  
+     '-..-| \-.,__~ ~ /                    FACEBOOK PAGE : @Masaaofficial FACEBOOK CONTACT : @DXDMASA 
+           \ `-.__/  /                     INSTAGRAM : @dxd_masa & GITHUB : @DrMasaDr & TWITTER : @DXDMASA 
+          / `-.__.-\`-._    ,*,                                                                     
+         / /|    ___\-._`-.;  , .----.██████╗░██╗░░██╗██████╗░  ███╗░░░███╗░█████╗░░██████╗░█████╗░ 
+        ( ( |.-*`   `'\ '-(     -.---'██╔══██╗╚██╗██╔╝██╔══██╗  ████╗░████║██╔══██╗██╔════╝██╔══██╗ 
+         \ \/    {}{}  |   \.__.-'    ██║░░██║░╚███╔╝░██║░░██║  ██╔████╔██║███████║╚█████╗░███████║ 
+         \|           /              ██║░░██║░██╔██╗░██║░░██║  ██║╚██╔╝██║██╔══██║░╚═══██╗██╔══██║  
+           \        , /               ██║░░██║░██╔██╗░██║░░██║  ██║╚██╔╝██║██╔══██║░╚═══██╗██╔══██║ 
+           ( __`;-;'__`)              ██████╔╝██╔╝╚██╗██████╔╝  ██║░╚═╝░██║██║░░██║██████╔╝██║░░██║ 
+           `//'`   `||`               ╚═════╝░╚═╝░░╚═╝╚═════╝░  ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝ 
 	
 ##=======
-"""%(R+"{v0.5 Final}"+G,underline+C+"https://github.com/menkrep1337/XSSCon"+N+G)
 	
->>>>>>> branch 'master' of https://github.com/menkrep1337/XSSCon
 """

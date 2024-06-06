@@ -2,19 +2,12 @@
 
 
 # Usage:
-- git clone `https://github.com/DrMasaDr/XSS-SCAN`
-- cd XSS-SCAN
-- python3 DXD.py
-- python3 DXD.py -u (inter website)
+- git clone `https://github.com/DrMasaDr/WEBSITE-METHOD`
+- cd WEBSITE-METHOD
+- bash setup.sh
+- bash DXD.sh
 
-## Main features
 
-* crawling all links on a website ( crawler engine )
-* POST and GET forms are supported
-* many settings that can be customized
-* Advanced error handling
-* Multiprocessing support.✔️
-* ETC....
 ## CONTACT ME ON
 
 1.<a href="MY FACEBOOK">https://www.facebook.com/DXDMASA/</a> <br>
